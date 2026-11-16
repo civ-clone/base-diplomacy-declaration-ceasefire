@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-diplomacy-declaration-ceasefire",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The Ceasefire declaration: a truce between two players at war, short of peace.",
   "repository": "git@github.com:civ-clone/base-diplomacy-declaration-ceasefire.git",
   "keywords": [
